@@ -7,3 +7,5 @@ contains assignments
 
 [Assignment week 6](https://github.com/Federico1997/assignments/blob/master/Assignment%20week%206.ipynb)
 
+[Assignment week 8](https://github.com/Federico1997/assignments/blob/master/assignment%20week%208.ipynb)
+

@@ -9,3 +9,9 @@ contains assignments
 
 [Assignment week 8](https://github.com/Federico1997/assignments/blob/master/assignment%20week%208.ipynb)
 
+# Final exam assignments
+
+[Python Assignment](https://github.com/Federico1997/assignments/blob/master/Final%20Assignment%20Python-Moraes-Perren.ipynb)
+
+[R Assignment](https://github.com/Federico1997/assignments/blob/master/OECD%20R%20exam-Moraes-Perren.ipynb)
+
